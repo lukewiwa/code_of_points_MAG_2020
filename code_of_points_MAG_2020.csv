@@ -200,7 +200,7 @@ id,app,value,EG,number,description
 199,Pommel Horse,C,3,27,All travels with ½ spindle in cross support (½ or 2/3 travel).½
 200,Pommel Horse,C,3,33,All travels with ½ spindle in side support. ½
 201,Pommel Horse,C,3,45,"Travel fwd. in cross support with support on leather, pommel, pommel, leather(3/3) (1-2-4-5)."
-202,Pommel Horse,D,3,34,Cross travel fwd. 3/3 with ½ Spindle from one pommel over the other pommel.½ pivot desde un arco sobre el otro arco.(Nin Reyes)
+202,Pommel Horse,D,3,34,Cross travel fwd. 3/3 with ½ Spindle from one pommel over the other pommel.(Nin Reyes)
 203,Pommel Horse,D,3,46,Any other travel fwd. in cross support to other end (3/3).(Magyar)
 204,Pommel Horse,E,3,29,From an end side travel with 2x other end.
 205,Pommel Horse,E,3,35,Travel 3/3 over both pommels with ½ Spindle.½ pívot.(Nin Reyes 2)
@@ -323,7 +323,7 @@ id,app,value,EG,number,description
 322,Rings,E,2,83,"From swallow, press to inverted cross (2 s.)."
 323,Rings,E,2,89,"From cross, press to swallow (2 s.)."
 324,Rings,E,2,95,From inverted cross lower slowly to inverted hang and felge bwd. slowly to swallow (2 s.).(Jotchev)
-325,Rings,D,2,106,Slowly roll fwd. str. w. str. arms through Cross and press to planche without first going to sup-port (2 s.).(Ng Kiu Chung 2)
+325,Rings,D,2,106,Slowly roll fwd. str. w. str. arms through Cross and press to planche without first going to support (2 s.).(Ng Kiu Chung 2)
 326,Rings,D,2,112,"Slow roll fwd. with str. body and arms to Cross or L-Cross (2 s.), also from inverted hang.(Davtyan)"
 327,Rings,E,2,101,Roll bwd. slowly with str. arms and body to free sup. scale (2 s.)(Yan Mijayoung)
 328,Rings,E,2,107,From hang vertical pull up with straight arms to (Balandin 1)
